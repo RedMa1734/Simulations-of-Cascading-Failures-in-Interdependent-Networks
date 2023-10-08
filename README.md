@@ -10,5 +10,7 @@ main.py Contains the main simulation files, all.py can be used for multiple simu
 main.py含有主要的模拟文件，all.py可以用于进行多次模拟，控制各种参数的范围和步长，test.py仅作为代码的临时存储库
 
 ref.
+
 Zhang GD, Li Z, Zhang B, et al. Understanding the cascading failures in Indian power grids with complex networks theory [J]. Physica A, 2013, 392(15): 3273-3280. 
+
 Gao JX, Buldyrev SV, Havlin S, et al. Robustness of a network of networks [J]. Physical Review Letters, 2011, 107(19): 195701. 
